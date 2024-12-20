@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### 👨‍💻 About Me  
-I’m Ibrahim, a final-year software engineering student passionate about building innovative solutions to real-world problems. My expertise lies in developing user-friendly applications, writing clean and efficient code, and leveraging modern technologies to streamline processes.
+I’m  Ebrahim, a final-year software engineering student passionate about building innovative solutions to real-world problems. My expertise lies in developing user-friendly applications, writing clean and efficient code, and leveraging modern technologies to streamline processes.
 
  ### 💡 What I Do  
 - Frontend Development: Building responsive, intuitive interfaces with Tailwind CSS.  
