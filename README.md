@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### 👨‍💻 About Me  
-I’m  Ebrahim Alhakimi, a final-year software engineering student passionate about building innovative solutions to real-world problems. My expertise lies in developing user-friendly applications, writing clean and efficient code, and leveraging modern technologies to streamline processes.
+I’m  Ebrahim Alhakimi, a final-year IT student passionate about building innovative solutions to real-world problems. My expertise lies in developing user-friendly applications, writing clean and efficient code, and leveraging modern technologies to streamline processes.
 
  ### 💡 What I Do  
 - Frontend Development: Building responsive, intuitive interfaces with Tailwind CSS.  
@@ -15,6 +15,7 @@ I’m  Ebrahim Alhakimi, a final-year software engineering student passionate ab
 ### 📈 Goals  
 - Develop tools for productivity and learning management systems.  
 - Contribute to open-source projects in education and technology.
+- Learn new technologies in front-end and back-end 
 - Master Japanese (currently using *Japanese From Zero!* for learning).  
 
  ### 📫  Let's Connect!  
